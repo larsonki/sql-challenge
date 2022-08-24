@@ -13,7 +13,7 @@
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) '***Bonus***'
+***Bonus***
 
 **Create the following visualizations of the data by importing the SQL database into Pandas:**
 
