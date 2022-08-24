@@ -1,6 +1,6 @@
 # Employee Database Analysis
 
-###### Complete a research project on employees of the fictional Pewlett Hackard corporation spanning from the 1980s through the 1990s.
+## Complete a research project on employees of the fictional Pewlett Hackard corporation spanning from the 1980s through the 1990s.
 
 **Design tables to hold data from six CSV files by sketching an Entity Relationship Diagram (ERD), import the data into a SQL database (specifying data types, primary keys, foreign keys and other constraints), and answer the following questions about the data:**
 
@@ -13,7 +13,7 @@
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
-***Bonus***
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) '***Bonus***'
 
 **Create the following visualizations of the data by importing the SQL database into Pandas:**
 
